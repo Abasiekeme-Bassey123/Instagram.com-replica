@@ -1,0 +1,568 @@
+body {
+  background-color: whitesmoke;
+  font-size: 15px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.myheadingname {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font: 1em sans-serif;
+  font-size: 60px;
+  display: inline-block;
+  position: relative;
+  bottom: -60px;
+  left: 110px;
+}
+
+.evolce {
+  position: fixed;
+}
+
+/* .connect{:   note that this is for the button
+  color: white;
+  background-color: black;
+  border-radius: 25px;
+  width: 60px;
+  height: 15px;
+  padding: 20px;
+  border: 5px solid black;
+} */
+
+.about {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  position: absolute;
+  left: 900px;
+  bottom: 555px;
+  color: whitesmoke;
+}
+
+.aboutlink {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.community {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  position: absolute;
+  left: 1000px;
+  bottom: 555px;
+  color: whitesmoke;
+}
+
+.communitylink {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.explore {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  position: absolute;
+  left: 1150px;
+  bottom: 555px;
+  color: whitesmoke;
+}
+
+.explorelink {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.abasstory1 {
+  border-radius: 50%;
+}
+.abasstory2 {
+  border-radius: 50%;
+}
+.abasstory3 {
+  border-radius: 50%;
+}
+.abasstory4 {
+  border-radius: 50%;
+}
+.abasstory5 {
+  border-radius: 50%;
+}
+.abasstory6 {
+  border-radius: 50%;
+}
+.abasstory7 {
+  border-radius: 50%;
+}
+.abasstory8 {
+  border-radius: 50%;
+}
+
+.stories {
+  width: 590px;
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  left: 335px;
+  top: 75px;
+}
+
+.abasicon1 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.abasicon2 {
+  position: absolute;
+  top: 80px;
+  left: 20px;
+}
+
+.abasicon3 {
+  position: absolute;
+  top: 140px;
+  left: 20px;
+}
+
+.abasicon4 {
+  position: absolute;
+  top: 200px;
+  left: 20px;
+}
+
+.abasicon5 {
+  position: absolute;
+  top: 260px;
+  left: 20px;
+}
+
+.abasicon6 {
+  position: absolute;
+  top: 320px;
+  left: 20px;
+}
+
+.abasicon7 {
+  position: absolute;
+  top: 380px;
+  left: 20px;
+}
+
+.abasicon8 {
+  border-radius: 50%;
+  position: absolute;
+  top: 440px;
+  left: 20px;
+}
+
+.abasicon9 {
+  position: absolute;
+  top: 494.5px;
+  left: 20px;
+}
+
+.widgetcommandmenu {
+  position: fixed;
+}
+
+.hometext {
+  position: fixed;
+  top: 90px;
+  left: 70px;
+}
+
+.searchtext {
+  position: fixed;
+  top: 150px;
+  left: 70px;
+}
+
+.exploretext {
+  position: fixed;
+  top: 210px;
+  left: 70px;
+}
+
+.reelstext {
+  position: fixed;
+  top: 270px;
+  left: 70px;
+}
+
+.messagestext {
+  position: fixed;
+  top: 330px;
+  left: 70px;
+}
+
+.notificationstext {
+  position: fixed;
+  top: 390px;
+  left: 70px;
+}
+
+.createtext {
+  position: fixed;
+  top: 450px;
+  left: 70px;
+}
+
+.profiletext {
+  position: fixed;
+  top: 505px;
+  left: 70px;
+}
+
+.moretext {
+  position: fixed;
+  top: 565px;
+  left: 70px;
+}
+
+.postname1 {
+  position: absolute;
+  left: 430px;
+  top: 200px;
+}
+
+.originalaudio {
+  position: absolute;
+  top: 220px;
+  left: 430px;
+}
+
+.picturediv {
+  height: 400px;
+  width: 500px;
+  border: 1px solid gray;
+  border-radius: 0.9%;
+  position: absolute;
+  left: 390px;
+  top: 270px;
+}
+
+.pp {
+  position: absolute;
+  left: 440px;
+  top: 271px;
+}
+
+.subz {
+  border-radius: 50%;
+  position: relative;
+  top: 66px;
+  left: 183px;
+  display: inline;
+}
+
+.boxmodel {
+  width: 275px;
+  height: 3000px;
+  border: 1px solid gray;
+  position: absolute;
+  top: 0.00000000000000000000000000000000000001px;
+  left: 0.00000000000001px;
+}
+
+.threedots {
+  position: absolute;
+  left: 840px;
+  top: 215px;
+}
+
+.dot {
+  position: absolute;
+  left: 520px;
+  top: 238.5px;
+}
+
+.doubledots {
+  position: absolute;
+  left: 758px;
+  top: 218px;
+}
+
+.minute {
+  position: absolute;
+  left: 774px;
+  top: 215px;
+}
+
+.bandana {
+  position: absolute;
+  top: 220px;
+  left: 538px;
+}
+
+.myupimage {
+  border-radius: 50%;
+  position: absolute;
+  left: 995px;
+  top: 85px;
+}
+
+.myupname {
+  position: absolute;
+  left: 1053px;
+  top: 68px;
+}
+
+.myownname {
+  position: absolute;
+  left: 1053px;
+  top: 90px;
+}
+
+.switchtext {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: blue;
+  position: absolute;
+  left: 1268px;
+  top: 80px;
+  font-size: 14px;
+}
+
+.suggestedforyou {
+  color: gray;
+  position: absolute;
+  left: 995px;
+  top: 145px;
+}
+
+.seealltext {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  position: absolute;
+  left: 1268px;
+  top: 145px;
+}
+
+.evolve {
+  color: whitesmoke;
+}
+
+.iglogo {
+  position: fixed;
+  top: 20px;
+}
+
+.imga {
+  border-radius: 50%;
+  position: absolute;
+  left: 995px;
+  top: 200px;
+}
+
+.imgb {
+  border-radius: 50%;
+  position: absolute;
+  left: 995px;
+  top: 260px;
+}
+
+.imgc {
+  border-radius: 50px;
+  position: absolute;
+  left: 995px;
+  top: 320px;
+}
+
+.imgd {
+  border-radius: 50px;
+  position: absolute;
+  left: 995px;
+  top: 380px;
+}
+
+.make {
+  border-radius: 50px;
+  position: absolute;
+  left: 995px;
+  top: 440px;
+}
+
+.name1 {
+  position: absolute;
+  left: 1050px;
+  top: 185px;
+}
+
+.name2 {
+  position: absolute;
+  left: 1050px;
+  top: 249px;
+}
+.name3 {
+  position: absolute;
+  left: 1050px;
+  top: 310px;
+}
+.name4 {
+  position: absolute;
+  left: 1050px;
+  top: 370px;
+}
+.name5 {
+  position: absolute;
+  left: 1050px;
+  top: 430px;
+}
+
+.followedby {
+  position: absolute;
+  left: 1050px;
+  top: 203px;
+}
+
+.followedby2 {
+  position: absolute;
+  left: 1050px;
+  top: 268px;
+}
+
+.followedby3 {
+  position: absolute;
+  left: 1050px;
+  top: 329px;
+}
+
+.followedby4 {
+  position: absolute;
+  left: 1050px;
+  top: 388px;
+}
+
+.followedby5 {
+  position: absolute;
+  left: 1050px;
+  top: 448px;
+}
+
+.follow1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: blue;
+  position: absolute;
+  left: 1268px;
+  top: 199px;
+  font-size: 14px;
+}
+
+.follow2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: blue;
+  position: absolute;
+  left: 1268px;
+  top: 265px;
+  font-size: 14px;
+}
+
+.follow3 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: blue;
+  position: absolute;
+  left: 1268px;
+  top: 325px;
+  font-size: 14px;
+}
+
+.follow4 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: blue;
+  position: absolute;
+  left: 1268px;
+  top: 380px;
+  font-size: 14px;
+}
+
+.follow5 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: blue;
+  position: absolute;
+  left: 1268px;
+  top: 440px;
+  font-size: 14px;
+}
+
+.allshitshit {
+  width: 400px;
+  position: absolute;
+  top: 525px;
+  left: 995px;
+  font-size: 13px;
+}
+
+.lastshitshit {
+  position: absolute;
+  top: 570px;
+  left: 995px;
+  font-size: 13px;
+}
+
+.underscore1 {
+  position: absolute;
+  top: 688px;
+  left: 390px;
+}
+
+.underscore2 {
+  position: absolute;
+  top: 688px;
+  left: 435px;
+}
+
+.underscore3 {
+  position: absolute;
+  top: 688px;
+  left: 480px;
+}
+
+.underscore4 {
+  position: absolute;
+  top: 688px;
+  left: 864.5px;
+}
+
+.numberoflikes {
+  position: absolute;
+  top: 711px;
+  left: 390px;
+}
+
+.ocomment {
+  position: absolute;
+  top: 735px;
+  left: 390px;
+}
+
+.addcom {
+  position: absolute;
+  top: 758px;
+  left: 390px;
+}
+
+.smilingemoji {
+  position: absolute;
+  top: 775px;
+  left: 870px;
+}
+
+.boxmodel2 {
+  width: 500px;
+  height: 0.000000000000000000000000000000000000001px;
+  border: 0.00001px solid gray;
+  position: absolute;
+  top: 815px;
+  left: 390px;
+}
+
+@media screen and (orientation: portrait){
+  .widgetcommandmenu{
+    
+  }
+}
