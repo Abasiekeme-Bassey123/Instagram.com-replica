@@ -561,8 +561,7 @@ body {
   left: 390px;
 }
 
-@media screen and (orientation: portrait){
-  .widgetcommandmenu{
-    
+@media screen and (orientation: portrait) {
+  .widgetcommandmenu {
   }
 }
